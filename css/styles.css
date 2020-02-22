@@ -1,0 +1,108 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #ecf4f3;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  margin: 50px auto 20px;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+.subtitle{
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.skill-row{
+  margin:100px auto 100px;
+  text-align: left;
+  width: 50%;
+  line-height: 2;
+}
+
+.design-image{
+  margin-right: 30px;
+  float: left;
+  width: 20%;
+}
+
+.threeD-image{
+  margin-right: 30px;
+  float: right;
+  width: 25%;
+}
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.top-cloud {
+  width: 15%;
+  position: absolute;
+  right: 200px;
+  top: 30px;
+}
+
+.bottom-cloud {
+  width: 20%;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+
+.mountain {
+  padding-top: 2em;
+  width: 40%;
+}
+
+a{
+  color: #11999E;
+  line-height: 2;
+}
+.my-image{
+  width: 40%;
+  margin: 50px auto 20px auto;
+}
+.profile{
+  line-height: 2;
+  width: 30%;
+  margin: auto;
+  margin-bottom: 80px;
+}
+.skills{
+  margin-top: 80px;
+}
+.contact-me{
+  margin-top: 80px;
+}
+hr{
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none none;
+  width: 3%;
+}
+.bottom-container{
+  padding: 50px;
+  background-color: #66BFBF;
+  margin-top: 100px;
+}
